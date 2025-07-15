@@ -25,13 +25,33 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRAVANTHIMURUKURI18&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRAVANTHIMURUKURI18&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SRAVANTHIMURUKURI18&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=SRAVANTHIMURUKURI18&style=flat-square&color=blue)
+
+---
+
 ### 📫 Get in Touch
 
-- ✉️ Email: sravanthimurukuri18@gmail.com
-- To check my editing visit: 
-- 🔗 [Instagram](https://www.instagram.com/smeditzz18)
+- ✉️ Email: sravanti.email@example.com
+- TO know my editing skills visit :  
+- 🔗 [Instagram](https://www.instagram.com/smeditzz18)  
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
 
-Thanks for stopping by! 😊
+✨ Thanks for stopping by! Feel free to connect 🙌
