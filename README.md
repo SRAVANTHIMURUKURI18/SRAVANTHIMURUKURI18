@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sravanti!
+## Hi there 👋, I'm Sravanthi Murukuri!
 
 🎨 UI/UX Designer | Graphic Designer | Visual Storyteller
 
