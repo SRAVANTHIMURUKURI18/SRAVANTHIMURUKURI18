@@ -27,8 +27,9 @@
 
 ### 📫 Get in Touch
 
-- ✉️ Email: sravanti.email@example.com  
-- 🔗 [Portfolio](https://yourportfolio.com)  
+- ✉️ Email: sravanthimurukuri18@gmail.com
+- To check my editing visit: 
+- 🔗 [Instagram](https://www.instagram.com/smeditzz18)
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
